@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23473" started-at="2019-02-11T03:00:14Z" finished-at="2019-02-11T03:00:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23473" started-at="2019-02-11T03:00:14Z" finished-at="2019-02-11T03:00:37Z">
+      <class name="com.project.Durgasoft8AMBatch.TC_006">
+        <test-method status="PASS" signature="startProcess()[pri:0, instance:com.project.Durgasoft8AMBatch.TC_006@3abbfa04]" name="startProcess" is-config="true" duration-ms="14809" started-at="2019-02-11T03:00:14Z" finished-at="2019-02-11T03:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="automationRegistration()[pri:0, instance:com.project.Durgasoft8AMBatch.TC_006@3abbfa04]" name="automationRegistration" duration-ms="8597" started-at="2019-02-11T03:00:29Z" finished-at="2019-02-11T03:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationRegistration -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:com.project.Durgasoft8AMBatch.TC_006@3abbfa04]" name="endProcess" is-config="true" duration-ms="0" started-at="2019-02-11T03:00:37Z" finished-at="2019-02-11T03:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- com.project.Durgasoft8AMBatch.TC_006 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

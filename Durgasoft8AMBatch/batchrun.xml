@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SmokeSuite" thread-count="5">
+
+  <test  name="ChromeTest">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.project.Durgasoft8AMBatch.TC_004"/>
+      <class name="com.project.Durgasoft8AMBatch.TC_004"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+  
+  <test  name="FirefoxTest">
+  <parameter name="browser" value="ff"></parameter>
+    <classes>
+      <class name="com.project.Durgasoft8AMBatch.TC_004"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+ 
+  
+  <test  name="IETest">
+  <parameter name="browser" value="ie"></parameter>
+    <classes>
+      <class name="com.project.Durgasoft8AMBatch.TC_004"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+  
+  
+</suite> <!-- SmokeSuite -->

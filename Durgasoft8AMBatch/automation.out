@@ -1,0 +1,29 @@
+Opened the browser of type :- chrome
+Navigated to url :- https://www.amazon.in
+Opened the browser of type :- chrome
+Navigated to url :- https://www.amazon.in
+Entered the Search text :- philipsby using locator :- field-keywords
+Clicked on Amazon Search button  by using locator :- //input[@value='Go']
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:49092: Connection reset
+Retrying request to {}->http://localhost:49092
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:40492: Connection reset
+Retrying request to {}->http://localhost:40492
+Connection released: [id: 0][route: {}->http://localhost:30218][total kept alive: 2; route allocated: 1 of 2000; total allocated: 2 of 2000]
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:23984: Connection reset
+Retrying request to {}->http://localhost:23984
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:23984: Connection reset
+Retrying request to {}->http://localhost:23984
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:38010: Connection reset
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:38010: Connection reset
+Retrying request to {}->http://localhost:38010
+Retrying request to {}->http://localhost:38010
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2635: Connection reset
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2635: Connection reset
+Retrying request to {}->http://localhost:2635
+Retrying request to {}->http://localhost:2635
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:41551: Connection reset
+Retrying request to {}->http://localhost:41551
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:25232: Connection reset
+Retrying request to {}->http://localhost:25232
+I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:25232: Connection reset
+Retrying request to {}->http://localhost:25232
